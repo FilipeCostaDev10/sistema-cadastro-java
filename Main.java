@@ -32,7 +32,8 @@ public class Main {
             System.out.println("\n==== SISTEMA DE CADASTRO DE ALUNOS ====");
             System.out.println("1. Cadastrar Aluno");
             System.out.println("2. Listar Todos os Alunos");
-            System.out.println("3. Rastrearor Matrícula");
+            System.out.println("3. Procurar Aluno por Matrícula");
+
             System.out.println("4. Sair");
             System.out.print("Escolha uma opção: ");
 
