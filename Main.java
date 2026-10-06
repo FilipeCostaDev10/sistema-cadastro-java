@@ -49,7 +49,7 @@ public class Main {
                     String curso = scanner.nextLine();
 
                     alunos.add(new Aluno(nome, matricula, curso));
-                    System.out.println("-> Aluno cadastrado com sucesso!");
+                    System.out.println("Aluno cadastrado com sucesso!");
                     break;
 
                 case 2:
@@ -77,7 +77,7 @@ public class Main {
                     }
 
                     if (!encontrado) {
-                        System.out.println("-> Aluno não encontrado com essa matrícula.");
+                        System.out.println("Aluno não encontrado com essa matrícula.");
                     }
                     break;
 
