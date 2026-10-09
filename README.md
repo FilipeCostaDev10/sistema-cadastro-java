@@ -16,7 +16,7 @@ Um sistema simples em Java para gerenciamento e cadastro de alunos via terminal,
 ## Tecnologias Utilizadas
 
 - **Linguagem:** Java (JDK 17 ou superior)
-- **IDE / Editor:** Visual Studio Code
+- **IDE / Editor:** VS Code
 - **Controle de Versão:** Git & GitHub
 
 ---
