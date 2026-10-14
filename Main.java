@@ -18,7 +18,7 @@ class Aluno {
 
     @Override
     public String toString() {
-        return "Matrícula: " + matricula + " | Nome: " + nome + " | Curso: " + curso;
+        return "Matrícula: " + matricula + " - Nome: " + nome + " - Curso: " + curso;
     }
 }
 
