@@ -53,7 +53,7 @@ public class Main {
                     break;
 
                 case 2:
-                    System.out.println("\n--- Lista de Alunos Cadastrados ---");
+                    System.out.println("\n==== Lista de Alunos Cadastrados ====");
                     if (alunos.isEmpty()) {
                         System.out.println("Nenhum aluno cadastrado.");
                     } else {
